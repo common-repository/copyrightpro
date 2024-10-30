@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: CopyRightPro\n"
+"POT-Creation-Date: 2017-05-31 15:03-0500\n"
+"PO-Revision-Date: 2017-05-31 15:12-0500\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: copyrightpro.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: es\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: panel.php:60
+msgid "Please select the protections to activate in your Wordpress."
+msgstr "Seleccione las protecciones que desea activar en su Wordpress."
+
+#: panel.php:67
+msgid "Disable right click on your Wordpress."
+msgstr "Deshabilitar click derecho en su Wordpress."
+
+#: panel.php:68
+msgid "Disable selection of text."
+msgstr "Deshabilitar selección de texto."
+
+#: panel.php:69
+msgid "Protects from iframes."
+msgstr "Proteger de iframes."
+
+#: panel.php:70
+msgid "Protects from drag and drop images."
+msgstr "Proteger contra  arrastrar y soltar imágen."
+
+#: panel.php:79
+msgid "About CopyRightPro"
+msgstr "Acerca de CopyRightPro"
+
+#: panel.php:80
+msgid "is a plug-in developed by"
+msgstr "es un plug-in desarrollado por"
+
+#: panel.php:80
+#, php-format
+msgid ""
+"in order to minimize the copying of your website content. This is not a   "
+"complete solution, but it will avoid 90% of attempts to copy its   contents."
+msgstr ""
+"con el fin de minimizar la copia del contenido de su sitio web. Esto no es "
+"una solución completa, pero evitará el 90% de los intentos de copiar su "
+"contenido."
+
+#: panel.php:81
+msgid "Wp-CopyRightPro is bad for the SEO?"
+msgstr "¿Wp-CopyRightPro es malo para el SEO?"
+
+#: panel.php:82
+msgid ""
+"This plug-in is developed in PHP and javascript, for this reason   the plug-"
+"in does not affect search engines, it only affects the user's   browser that "
+"tries to copy your content."
+msgstr ""
+"Este plug-in está desarrollado en PHP y javascript, por esta razón el plug-"
+"in no afecta a los motores de búsqueda, sólo afecta al navegador del usuario "
+"que intenta copiar su contenido."
+
+#: panel.php:83
+msgid "Wp-CopyrightPro detects the hotlink?"
+msgstr "¿Wp-CopyrightPro detecta el hotlink?"
+
+#: panel.php:84
+#, php-format
+msgid ""
+"When activating 100% of the protections, in less than a week,   Wp-"
+"CopyRightPro can reveal sites that are using your images, just by   logging "
+"into Google.com images section type this (site:yoursite.com) and   google "
+"will show the sites that are using your images."
+msgstr ""
+"Al activar el 100% de las protecciones, en menos de una semana, Wp-"
+"CopyRightPro puede revelar los sitios que están utilizando sus imágenes, "
+"simplemente ingresando a Google.com en la sección imágenes escriba (site: "
+"tusitio.com) y google mostrará los sitios que están utilizando sus imágenes."
+
+#: panel.php:85
+msgid "For questions, suggestions, please enter our Official Site"
+msgstr "Para preguntas, sugerencias, por favor ingrese a nuestro Sitio Oficial"
+
+#: panel.php:85
+msgid "here"
+msgstr "aquí"
+
+#: panel.php:89
+msgid "Tell The World!"
+msgstr "¡Dile al mundo!"
+
+#: panel.php:90
+msgid "Proudly tell the world, ¡your content is protected!"
+msgstr "Diga orgullosamente al mundo, ¡su contenido está protegido!"
+
+#: panel.php:92
+msgid "Places a message in your blog's footer"
+msgstr "Colocar un mensaje en el pie de su blog"
+
+#. Plugin Name of the plugin/theme
+msgid "CopyRightPro"
+msgstr "CopyRightPro"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://wp-copyrightpro.com/"
+msgstr "http://wp-copyrightpro.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"CopyRightPro is a plug-in that prevents the copying of texts and images from "
+"your blog, if you install this plug-in, your content of wordpress will be "
+"protected."
+msgstr ""
+"CopyRightPro es un plug-in que evita la copia de textos e imágenes de tu "
+"blog, si instalas este plug-in, tu contenido de wordpress estará protegido."
+
+#. Author of the plugin/theme
+msgid "Andres Felipe Perea V."
+msgstr "Andres Felipe Perea V."

@@ -1,0 +1,121 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: CopyRightPro\n"
+"POT-Creation-Date: 2017-05-31 15:03-0500\n"
+"PO-Revision-Date: 2017-05-31 15:02-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: copyrightpro.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: panel.php:60
+msgid "Please select the protections to activate in your Wordpress."
+msgstr ""
+
+#: panel.php:67
+msgid "Disable right click on your Wordpress."
+msgstr ""
+
+#: panel.php:68
+msgid "Disable selection of text."
+msgstr ""
+
+#: panel.php:69
+msgid "Protects from iframes."
+msgstr ""
+
+#: panel.php:70
+msgid "Protects from drag and drop images."
+msgstr ""
+
+#: panel.php:79
+msgid "About CopyRightPro"
+msgstr ""
+
+#: panel.php:80
+msgid "is a plug-in developed by"
+msgstr ""
+
+#: panel.php:80
+#, php-format
+msgid ""
+"in order to minimize the copying of your website content. This is not a   "
+"complete solution, but it will avoid 90% of attempts to copy its   contents."
+msgstr ""
+
+#: panel.php:81
+msgid "Wp-CopyRightPro is bad for the SEO?"
+msgstr ""
+
+#: panel.php:82
+msgid ""
+"This plug-in is developed in PHP and javascript, for this reason   the plug-"
+"in does not affect search engines, it only affects the user's   browser that "
+"tries to copy your content."
+msgstr ""
+
+#: panel.php:83
+msgid "Wp-CopyrightPro detects the hotlink?"
+msgstr ""
+
+#: panel.php:84
+#, php-format
+msgid ""
+"When activating 100% of the protections, in less than a week,   Wp-"
+"CopyRightPro can reveal sites that are using your images, just by   logging "
+"into Google.com images section type this (site:yoursite.com) and   google "
+"will show the sites that are using your images."
+msgstr ""
+
+#: panel.php:85
+msgid "For questions, suggestions, please enter our Official Site"
+msgstr ""
+
+#: panel.php:85
+msgid "here"
+msgstr ""
+
+#: panel.php:89
+msgid "Tell The World!"
+msgstr ""
+
+#: panel.php:90
+msgid "Proudly tell the world, ¡your content is protected!"
+msgstr ""
+
+#: panel.php:92
+msgid "Places a message in your blog's footer"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "CopyRightPro"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://wp-copyrightpro.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"CopyRightPro is a plug-in that prevents the copying of texts and images from "
+"your blog, if you install this plug-in, your content of wordpress will be "
+"protected."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Andres Felipe Perea V."
+msgstr ""

@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+.centrado{
+        max-width: 720px;
+        background: #ffffff;
+        margin: 0 auto;
+        border: 1px solid #e5e5e5;
+        box-shadow: 0 1px 1px rgba(0,0,0,.04);
+        padding: .7em 2em 1em;
+        margin-top: 20px;
+    }
+    .logo{
+        max-width: 328px;
+        margin: 0 auto;
+    }
+    
+    .logo img{
+        width: 100%;
+    }
+    .barraroja{
+        width: 100%;
+        height: 20px;
+        background: #ff0000;
+        position: relative;
+    }
+    .progreso{
+        background: #0085ba;
+        height: 20px;
+        text-align: center;
+        color: #ffffff;
+        position: absolute;
+    }
+    
+    .porcentaje{
+        width: 100%;
+        color: #ffffff;
+        text-align: center;
+        position: relative;
+        z-index: 100;
+    }
